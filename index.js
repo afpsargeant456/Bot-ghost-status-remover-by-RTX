@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Designs Central","discord.gg/designscentral"];
+const statusMessages = ["Watching over Harbour City Networks""];
 
 
 let currentIndex = 0;
